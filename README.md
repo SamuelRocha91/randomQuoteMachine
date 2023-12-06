@@ -1,4 +1,4 @@
-<h1>Project Drum Machine</h1>
+<h1>Project Random Quote Machine</h1>
 <p>Trata-se de um projeto desenvolvido no módulo de FrontEnd do curso de Desenvolvimento Web do FreeCodeCamp. O projeto envolveu o uso de Javascript, CSS e HTML através do framework React. Principais competências desenvolvidas: </p>
 <ol>
   <li>React Hooks;</li>
